@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player2
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkKeysP2()
+comment3.params=
+comment3.target=void\ checkCollisionP2()
+comment3.text=\r\n\ Checks\ if\ the\ second\ player\ has\ collided\ with\ gold\ and\ plays\ a\ sound.\r\n
+comment4.params=
+comment4.target=void\ showScoreP2()
+numComments=5
